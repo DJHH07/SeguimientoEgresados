@@ -1,0 +1,5 @@
+streamlit==1.31.0
+pandas
+bcrypt
+libsql-experimental==0.10.1
+python-dotenv==1.0.0
